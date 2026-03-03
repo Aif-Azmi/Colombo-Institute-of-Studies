@@ -1,6 +1,6 @@
 Colombo Institute of Studies - Employee Management System | Java OOP + MySQL 🏆 
 
-Developed a complete GUI-based Employee Management System for the Colombo Institute of Studies, replacing their manual system with an efficient object-oriented solution backed by MySQL database. This project received a Distinction-level grade (>70%) for demonstrating excellence in OOP principles and database integration.
+Developed a complete GUI-based Employee Management System for the Colombo Institute of Studies, replacing their manual system with an efficient object-oriented solution backed by MySQL database.
 
 The Challenge: Design and build a digital system to manage employee records, departments, designations, and user access for an educational institute currently operating with manual processes.
 
